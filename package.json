@@ -8,13 +8,13 @@
   },
   "bugs": "https://github.com/SmartBear/swaggerhub-cli/issues",
   "dependencies": {
-    "@oclif/core": "^3.26.3",
-    "@oclif/plugin-help": "^6.0.21",
+    "@oclif/core": "^4.0.0",
+    "@oclif/plugin-help": "^6.1.0",
     "@oclif/plugin-plugins": "^5.0.21",
     "deep-extend": "^0.6.0",
     "fs-extra": "^11.1.1",
     "inquirer": "^8.2.5",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "json-templates": "^5.0.0",
     "node-fetch": "^2.6.12",
     "semver": "^7.6.0"
